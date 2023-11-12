@@ -1,5 +1,5 @@
 ### Vinicius 
-- 📕 Estudando sobre C/C++, Java(SpringBoot) e Banco de Dados.
+- 📕 Estudando sobre C/C++, C#, Java(SpringBoot) e Banco de Dados.
 - 💻 Graduando em Engenharia de Computação.
 - 📫 E-mail para contato: viniciusamarorosa5@gmail.com
 ##
