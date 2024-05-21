@@ -4,7 +4,7 @@
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusRosa1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ##
-
+![snake gif](https://github.com/ViniciusRosa1/ViniciusRosa1/blob/output/github-contribution-grid-snake.gif)
 ##
 
 <div> 
