@@ -4,8 +4,6 @@
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusRosa1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ##
-![snake gif](https://github.com/ViniciusRosa1/ViniciusRosa1/blob/output/github-contribution-grid-snake.gif)
-##
 
 <div> 
   <a href="https://instagram.com/viniciusorosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
