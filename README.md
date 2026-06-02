@@ -18,7 +18,7 @@ Passionate about technology and creating scalable, efficient solutions.
 - 🧑‍🏫 Bachelor's in Computer Engineering
 - 🔭 Fullstack Developer at [Lenke](https://www.lenke.com.br/)
 - 🏭 Working with MES & WMS systems
-- 💻 ASP.NET | Blazor | React
+- 💻 C# | ASP.NET | Blazor | React
 - 🚀 Passionate about technology and building scalable solutions
 
 ---
